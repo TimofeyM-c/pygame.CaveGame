@@ -1,0 +1,14 @@
+h = 50
+w = 10
+x = 0
+y = 460
+speed = 10
+hp = 100
+score = 0
+healing = []
+enem = []
+enem2 = []
+run = True
+bullets = []
+left = False
+right = False
